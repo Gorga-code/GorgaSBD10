@@ -3,7 +3,7 @@ import { fetchProducts } from '../services/api'
 
 const getImageUrl = (name) => {
   const safeName = String(name || '').trim().toLowerCase()
-  return `http://localhost:3000/public/${safeName}.png`
+  return `/api/public/${safeName}.png`
 }
 
 function ProductsPage() {
