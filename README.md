@@ -22,7 +22,7 @@ This repository contains a full-stack demo app with a React + Vite frontend and 
 
 3. Open the app in your browser:
    ```text
-   http://localhost:5174/products
+   http://localhost:5174
    ```
 
 ## Notes
